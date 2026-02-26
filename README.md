@@ -1,14 +1,26 @@
 # Permitio
 
 ## Product Description
-Permitio is an advanced permission management platform designed to streamline access control and security across various applications and resources. Our solution provides organizations with a robust set of tools to manage user permissions effectively and ensure compliance with security policies.
+Permitio helps to file any permit in 30s. Our AI agent handles all the paperwork, forms, payments and submissions for you.
 
 ## Features
-- Fine-grained access control to resources
-- User-friendly interface for managing permissions
-- Real-time auditing and reporting
-- Integration with popular identity providers
-- Role-based access management
+Auto-detects permit type based on job
+Smart AI analyzes your work order and determines the exact permit needed from 40+ permit types
+
+Fills and files forms with correct city/county
+Automatically populates all required fields and submits to the right jurisdiction
+
+Tracks permit statuses in one dashboard
+Monitor all your permits in progress from a single, unified view
+
+Schedules inspections automatically
+Books inspection appointments based on your availability and project timeline
+
+Sends real-time updates to Slack or your CRM
+Keep your team informed with instant notifications and status updates
+
+Handles rejections and resubmissions instantly
+Automatically fixes common permit issues and resubmits within minutes
 
 ## Company Information
 **Company Name**: Permitio  
@@ -17,4 +29,3 @@ Permitio is an advanced permission management platform designed to streamline ac
 **Founded**: 2025  
 **Location**: San Francisco, CA  
 
-Visit our website for more information on how Permitio can enhance your permission management processes.
