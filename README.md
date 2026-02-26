@@ -13,7 +13,7 @@ Permitio is an advanced permission management platform designed to streamline ac
 ## Company Information
 **Company Name**: Permitio  
 **Website**: [www.permitio.ai](https://www.permitio.ai)  
-**Contact**: info@permitio.ai  
+**Contact**: ruslan@permitio.ai  
 **Founded**: 2025  
 **Location**: San Francisco, CA  
 
